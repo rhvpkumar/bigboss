@@ -1,4 +1,0 @@
-Name: sunil G
-Designation:Devops engineer
-Email:sunil.g@mycompany.com
-phonenumber:949477777
